@@ -4,4 +4,8 @@ git add
 git commit
 git push
 
+git rm
+
 アッドしてコミット
+
+削除する時はリム
