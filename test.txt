@@ -8,8 +8,12 @@ git rm
 
 git status
 
+git diff
+
 アッドしてコミット
 
 削除する時はリム
 
 現在の状況を確認
+
+差分を確認
