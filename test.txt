@@ -6,6 +6,10 @@ git push
 
 git rm
 
+git status
+
 アッドしてコミット
 
 削除する時はリム
+
+現在の状況を確認
